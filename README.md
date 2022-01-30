@@ -81,5 +81,7 @@ For linux building dockerfile this way will work, but for VideoCapture(0) to wor
 # Runing without docker:
 
 Program can be run without using docker by using environment.yml file.
+- Create environment:
 > conda env create -f person_detector.yml
+- Run code:
 > python OurEye.ai_Assessment_Person_Detection.py -t 2
