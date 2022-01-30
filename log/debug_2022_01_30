@@ -1,0 +1,30 @@
+2022-01-30 09:08:11.043 [140082534532928] [INFO]: Model Loaded Successfully
+2022-01-30 09:10:19.509 [140082534532928] [INFO]: Output Generated Successfully
+2022-01-30 09:12:22.196 [139887250519872] [INFO]: Model Loaded Successfully
+2022-01-30 09:12:22.482 [139887250519872] [INFO]: Output Generated Successfully
+2022-01-30 09:13:40.155 [140183158921024] [INFO]: Model Loaded Successfully
+2022-01-30 09:13:40.519 [140183158921024] [INFO]: Output Generated Successfully
+2022-01-30 09:17:33.526 [139935451969344] [INFO]: Model Loaded Successfully
+2022-01-30 09:17:50.896 [140586675472192] [INFO]: Model Loaded Successfully
+2022-01-30 09:17:50.898 [140586675472192] [INFO]: Parameter list:{'inputType': 0, 'input': 'WIN_20200627_18_03_57_Pro.jpg', 'output': 'result.png'}
+2022-01-30 09:17:51.264 [140586675472192] [INFO]: Output Generated Successfully
+2022-01-30 11:33:04.918 [140668230608704] [INFO]: Model Loaded Successfully
+2022-01-30 11:33:04.918 [140668230608704] [INFO]: Parameter list:{'inputType': 1, 'input': 'input/videoplayback.mp4', 'output': ''}
+2022-01-30 11:34:20.616 [140616798902080] [INFO]: Model Loaded Successfully
+2022-01-30 11:34:20.617 [140616798902080] [INFO]: Parameter list:{'inputType': 1, 'input': 'videoplayback.mp4', 'output': ''}
+2022-01-30 12:04:14.880 [140616798902080] [INFO]: Output Generated Successfully
+2022-01-30 12:16:04.728 [139634841311040] [INFO]: Model Loaded Successfully
+2022-01-30 12:16:04.729 [139634841311040] [INFO]: Parameter list:{'inputType': 0, 'input': 'sampleImg.png', 'output': 'Labeled_IMG.png'}
+2022-01-30 12:16:05.063 [139634841311040] [INFO]: Output Generated Successfully
+2022-01-30 12:34:46.879 [139637475624768] [INFO]: Model Loaded Successfully
+2022-01-30 12:34:46.879 [139637475624768] [INFO]: Parameter list:{'inputType': 2, 'input': 'videoplayback.mp4', 'output': ''}
+2022-01-30 12:34:46.881 [139637475624768] [INFO]: Error Getting Camera
+2022-01-30 12:34:46.881 [139637475624768] [INFO]: 
+2022-01-30 18:33:17.624 [928] [INFO]: Model Loaded Successfully
+2022-01-30 18:33:17.624 [928] [INFO]: Parameter list:{'inputType': 2, 'input': 'videoplayback.mp4', 'output': ''}
+2022-01-30 18:34:54.288 [22808] [INFO]: Model Loaded Successfully
+2022-01-30 18:34:54.288 [22808] [INFO]: Parameter list:{'inputType': 2, 'input': 'videoplayback.mp4', 'output': ''}
+2022-01-30 18:35:46.728 [5296] [INFO]: Model Loaded Successfully
+2022-01-30 18:35:46.728 [5296] [INFO]: Parameter list:{'inputType': 2, 'input': 'videoplayback.mp4', 'output': ''}
+2022-01-30 18:37:42.440 [10972] [INFO]: Model Loaded Successfully
+2022-01-30 18:37:42.440 [10972] [INFO]: Parameter list:{'inputType': 2, 'input': 'videoplayback.mp4', 'output': ''}
